@@ -1,5 +1,5 @@
 {
     "expiry": "2024-12-31T23:59:59Z",
-    "allowedDomains": ["google.com", "bing.com"],
-    "allowAllDomains": false
+    "allowedDomains": ["ge.com", "bing.com"],
+    "allowAllDomains": true
 }
